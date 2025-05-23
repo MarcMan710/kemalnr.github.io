@@ -1,10 +1,6 @@
-# Portfolio Website for Kemal Nur Rachman
-
-This repository contains the source code for the personal portfolio website of Kemal Nur Rachman.
-
 ## About This Website
 
-This is a simple, responsive, single-page portfolio website designed to showcase Kemal Nur Rachman's skills, projects, and provide a way for visitors to get in touch.
+This is a simple, responsive, single-page portfolio website designed to showcase my skills, projects, and provide a way for visitors to get in touch about me.
 
 ## Technologies Used
 
